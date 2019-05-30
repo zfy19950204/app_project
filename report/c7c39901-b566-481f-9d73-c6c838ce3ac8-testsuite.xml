@@ -1,0 +1,206 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1559198383090" stop="1559198542667">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1559198383090" status="passed" stop="1559198425881">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_001-13488834010-159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198425883" status="passed" stop="1559198444314">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_002- 13488834010-159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198444315" status="passed" stop="1559198459900">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_003-13488834010 -159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198459901" status="passed" stop="1559198475899">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_005-mlili-159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198475900" status="passed" stop="1559198491298">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_006- mlili-159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198491299" status="passed" stop="1559198506762">
+      <description>
+
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_suc[login_007-mlili -159357li-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198506763" status="passed" stop="1559198514910">
+      <description>
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param toast: 获取toast消息参数
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_fail[login_009-18800001111-159357li-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198514912" status="passed" stop="1559198522867">
+      <description>
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param toast: 获取toast消息参数
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_fail[login_010-13488834010-159357-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198522868" status="passed" stop="1559198534296">
+      <description>
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param toast: 获取toast消息参数
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_fail[login_013-appium-159357-\u4e0d\u5b58\u5728-\u6b64\u7528\u6237\u4e0d\u5b58\u5728]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1559198534298" status="passed" stop="1559198542667">
+      <description>
+        :param case_num: 用例编号
+        :param account: 用户名
+        :param passwd: 密码
+        :param toast: 获取toast消息参数
+        :param exp_data: 预期结果
+        :return:
+        </description>
+      <name>TestLogin.test_login_fail[login_016-mlili-15931593159315931-\u9519\u8bef-\u767b\u5f55\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="15596-MainThread"/>
+        <label name="host" value="DNRYS-TGLA000"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
